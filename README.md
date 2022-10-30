@@ -1,6 +1,6 @@
 # MLNTOS
 
-Teacher Elmaddin
+Teacher Elmaddin Ahmadzada
 
 Tunar
 Orxan
