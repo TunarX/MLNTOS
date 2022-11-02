@@ -1,5 +1,7 @@
 # MLNTOS
 
+Teacher Elmaddin Ahmadzada
+
 Tunar
 Orxan
 Sadig
